@@ -25,7 +25,7 @@ This repository contains two distinct machine learning projects focused on finan
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/financial-prediction-projects.git
+    git clone https://github.com/Urvish0/financial-prediction-projects.git
     cd financial-prediction-projects
     ```
 
